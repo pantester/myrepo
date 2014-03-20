@@ -5,5 +5,5 @@ script:
     - "se-interpreter interpreter_config.json"
 env:
     global:
-        - SAUCE_USERNAME=pantester
+        - SAUCE_USERNAME=pantest
         - secure: "as0A9QpeRq5sfrQv3ybw6ksKIi4ql8QAS0X7zQFlQzhaVih/pOHICIm7fezA3oBZEdiTAelMUuLtX/QdMSCsXqq21+w1aFj6pJrL1BOx5kgfFXTwkdWQIc/hVoPRLnmZzsCGrTF8xZ4B1icsVKUWk5UkjYIxkJyRsPKkgmv+TTo="
